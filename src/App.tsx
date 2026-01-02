@@ -976,7 +976,7 @@ export default function InaxaWebsite() {
 								<input
 									type='hidden'
 									name='access_key'
-									value='YOUR_ACCESS_KEY_HERE'
+									value='77180db1-48d9-4a65-8349-963c049e50c0'
 								/>
 								<input
 									type='hidden'
